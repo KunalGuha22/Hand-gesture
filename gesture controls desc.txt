@@ -1,0 +1,10 @@
+Natural Gesture - Palm
+Moving Curser - V
+Left Click - Index Finger
+Right Click - Middle Finger
+Double Click - Both Close Finger Together
+Item Selection Drag - Fist Closed
+Drag and Drop - Both Finger Closed Downwards
+Scroll - Left hand pinch Downwards and upwards
+Volume - Right Hand pinch upwards and downwards
+Brightness - LRight hand pinch right and left
